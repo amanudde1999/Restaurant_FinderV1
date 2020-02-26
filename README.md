@@ -1,7 +1,7 @@
 # Restaurant_FinderV1
 The first version of the Restaurant Finder involves the use of a joystick to move the cursor around the map of Edmonton displayed on the TFT Display and view nearby restaurants. You can also view which restaurants are near you in Mode 1 and find out exactly where they are on the map.
 
-Included files in this submission are:
+Included files are:
 --------------------------------------
 - a1part1.cpp
 - README
