@@ -4,8 +4,10 @@ The first version of the Restaurant Finder involves the use of a joystick to mov
 Included files are:
 --------------------------------------
 - a1part1.cpp
-- README
 - Makefile
+- lcd_image.cpp
+- lcd_image.h
+- yeg_lcd.cpp
 
 Required Components:
 -----------------------
